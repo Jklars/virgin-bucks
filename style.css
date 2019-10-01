@@ -1,0 +1,43 @@
+body {
+  background-image: url("bg.jpg");
+  background-size: cover;
+}
+
+main {
+  position: relative;
+  background-color: black;
+  opacity: 0.5;
+  text-align: center;
+  width: 50%;
+  left: 24%;
+}
+
+h1 {
+  font-family: verdana;
+  font-weight: bold;
+  color: white;
+  font-size: xx-large;
+}
+
+img {
+  width: 50%;
+}
+
+p {
+  color: white;
+  font-family: verdana;
+}
+
+field {
+  color: white;
+  font-family: verdana;
+}
+
+p2 {
+  font-size: 5px;
+}
+
+form {
+  color: white;
+  font-family: verdana;
+}
